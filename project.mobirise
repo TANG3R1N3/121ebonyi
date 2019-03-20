@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -153,24 +153,18 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": 0.5
           },
-          "title": "<br>121 Zoom <i>EBONYI</i>",
+          "title": "121 Zoom EBONYI",
           "text": "121 Zoom and Ebonyi state working to bring you all the latest in technological advancements in school and education. ICT at work for the students of Ebonyi and their future in the academic world.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_anchor": "header1-6"
         },
         {
           "_styles": {
@@ -181,7 +175,8 @@
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {

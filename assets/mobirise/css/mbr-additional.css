@@ -7,7 +7,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -735,9 +734,6 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-1 .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
 #msg-box2-2 .mbr-section-title {
   color: #fff;
   font-family: 'Oxygen', sans-serif;
@@ -745,4 +741,5 @@ h6,
 }
 #msg-box2-2 .mbr-section-subtitle {
   color: #ffffff;
+  text-align: left;
 }
