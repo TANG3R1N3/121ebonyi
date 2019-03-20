@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -741,6 +742,7 @@ h6,
 }
 #header1-6 .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
+  color: #41a85f;
 }
 #msg-box2-2 .mbr-section-title {
   color: #fff;
@@ -758,6 +760,10 @@ h6,
 #msg-box2-b .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#contacts1-5 P {
+  font-family: 'Oxygen', sans-serif;
+}
+
 
 
 #ext_menu-7 .hide-buttons .nav-btn {
@@ -823,4 +829,16 @@ h6,
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extHeader3-a H3 {
+  color: #faaf40;
+}
+#form1-c .form-control-label {
+  color: #232323;
+}
+#form1-c .mbr-section-title {
+  color: #faaf40;
+}
+#contacts1-8 P {
+  font-family: 'Oxygen', sans-serif;
 }
