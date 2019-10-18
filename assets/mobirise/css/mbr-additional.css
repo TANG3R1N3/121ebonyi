@@ -840,6 +840,16 @@ h6,
 #extHeader3-a H5 {
   font-size: 16px;
 }
+#extHeader3-m H3 {
+  color: #faaf40;
+  font-size: 48px;
+}
+#extHeader3-m P {
+  font-size: 16px;
+}
+#extHeader3-m H5 {
+  font-size: 16px;
+}
 #form1-c .form-control-label {
   color: #232323;
 }
