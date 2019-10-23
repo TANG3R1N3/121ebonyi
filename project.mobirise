@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "121ebonyi",
-    "currentPage": "page6.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2304,7 +2304,7 @@
             "showText": false,
             "showButtons": false,
             "showArrow": true,
-            "showIcons": true,
+            "showIcons": false,
             "iconsColor": "#fff",
             "showTitles": true,
             "bgImageRadio": true,
