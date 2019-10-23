@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "121ebonyi",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -145,7 +145,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -163,7 +163,7 @@
           },
           "title": "<br><br>121 Zoom EBONYI",
           "text": "121 Zoom and Ebonyi state working to bring you all the latest in technological advancements in school and education. ICT at work for the students of Ebonyi and their future in the academic world.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.121zoom.org\" data-toolbar=\"-mbrBtnMove\">Back to 121 Zoom Education Centre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Contact 121 Zoom for Information</a>",
           "_tags": [
             "Theme"
           ],
@@ -334,9 +334,9 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html#extHeader3-a\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
